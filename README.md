@@ -1,8 +1,8 @@
 # :books: Books related to data
 
-This are mostly books shared by the Universidad Nacional de Cordoba for a data science extension course. 
+Here you can find books mostly shared by the Universidad Nacional de Cordoba for a data science extension course. 
 
-Some other books are by my own as recommendation about alghorithms, philosophical point of view about technology, bussiness and so on. 
+Some other books are by my own as a recommendation about alghorithms, philosophical point of view about technology, bussiness and so on. 
 
 Books's languages are mixed between spanish and english. 
 
@@ -10,29 +10,28 @@ Books's languages are mixed between spanish and english.
 
 - [Anderson Sweeney Williams - Estadistica para Administracion y economia](https://github.com/nuxion/data_material/raw/main/statistics/anderson_sweeney__estadistica_para_administracion_y_economia_anderson-10-th.pdf) 
 
-A book with a very good examples. 
+A book with very good examples to understand complex concepts like linear regressions. 
 
 - [Enders Wiley - Applied Econometric Time Series](https://github.com/nuxion/data_material/blob/main/statistics/enders__applied_econometric_time_series_1995.pdf)
 
 - [Gareth - An Introduction to Statistical Learning](https://github.com/nuxion/data_material/blob/main/statistics/gareth__an_introduction_to_statistical_learning.pdf)
 
-An excellent starter book about. It guides you from traditional statistcal point of you to a newer way to understand the same problems.  A python version of the code can be founded in 
-
-- [https://github.com/JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) 
+An excellent starter book about statistical techniques in general and machine learning in particular. It guides you from traditional statistcal point of you to a newer way to understand the same problems.  A python version of the code can be founded in [https://github.com/JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python). 
 
 - [Gujaraty & Porter -Econometria](https://github.com/nuxion/data_material/blob/main/statistics/gujarati_porter__econometria_2010.pdf) 
 
-A reference book for economists. Good material to understand Linear Regression. 
+A reference book for economists. Good material to understand Linear Regression. Often cited in different papers as a theoretical foundation. 
+
 
 - [Analisis multivariante aplicado con R](https://github.com/nuxion/data_material/blob/main/statistics/toaz__analisis_multivariante_aplicado_con_r.pdf)
 
 - [Guia practica dfe econometrica basica con python](https://github.com/nuxion/data_material/blob/main/statistics/triana__guia_basica_econometrica_con_python.pdf)
 
- Good practical examples for Linear Regression using stats model library from python. 
+ Good practical examples about Linear Regression using stats model library from python. 
 
 - [Tukey - Exploratory data analysis](https://github.com/nuxion/data_material/blob/main/statistics/tukey__exploratory_data_analysis_1977.pdf).
 
- Another reference book. Could be old, but Tukey was who created the concept of EDA which consists in a serie of techniques to understand the composition of your data. For instance, box-and-whisker plot was first introduced in this book. 
+ Another reference book. Could be oldy, but Tukey created the concept of **EDA** which consists in a serie of techniques to understand the composition of your data. For instance, box-and-whisker plot was first introduced in this book. 
 
 - [Wooldridge - Introductory Econometrics](https://github.com/nuxion/data_material/blob/main/statistics/wooldridge__introductory_econometrics.pdf)
 
